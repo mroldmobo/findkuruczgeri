@@ -1,4 +1,4 @@
-# Find Kurucz Gergely, English VER.  GAME STILL IN BETA TESTING
+# Find Kurucz Gergely, English VER.  GAME STILL IN BETA TESTING, You can find the game in the RELEASES
 # 🔍 Name Legends: The Hunt for Kurucz Gergely
 
 _A text-based adventure where you search for the legendary coder (1 in a million chance!)_
