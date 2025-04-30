@@ -1,4 +1,4 @@
-# findkuruczgeri
+# Find Kurucz Gergely, English VER.
 # 🔍 Name Legends: The Hunt for Kurucz Gergely
 
 _A text-based adventure where you search for the legendary coder (1 in a million chance!)_
