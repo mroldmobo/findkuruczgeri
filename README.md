@@ -1,9 +1,9 @@
-# Find Kurucz Gergely, English VER.
+# Find Kurucz Gergely, English VER. 
 # 🔍 Name Legends: The Hunt for Kurucz Gergely
 
 _A text-based adventure where you search for the legendary coder (1 in a million chance!)_
 
-![Gameplay Screenshot](screenshot.png) *(Example screenshot placeholder)*
+
 
 ## 🎮 Features
 - **1 in 1,000,000 chance** to find the mythical coder
@@ -64,3 +64,9 @@ FAME_REQUIRED = 1000       # Fame needed to win
     Special power-ups
 
     Global leaderboard
+
+
+
+
+
+    
