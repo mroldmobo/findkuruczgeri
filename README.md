@@ -1,4 +1,4 @@
-# Find Kurucz Gergely, English VER.  GAME STILL IN BETA TESTING, You can find the game in the RELEASES
+# A Hunt To find Kurucz Gergely it is avaible on Windows
 # 🔍 Name Legends: The Hunt for Kurucz Gergely
 
 _A text-based adventure where you search for the legendary coder (1 in a million chance!)_
@@ -15,10 +15,7 @@ _A text-based adventure where you search for the legendary coder (1 in a million
 ## ⚙️ Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/name-legends.git
 
-    Install dependencies (just Colorama for colors):
-    bash
 
     pip install colorama
 
